@@ -23,7 +23,7 @@ I am a beginner Frontend Developer <img src="https://media.giphy.com/media/WUlpl
 
 - :lotus_position_woman: in my free time I practice yoga.
 
-- :envelope_with_arrow: How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](@rzklchv)
+- :envelope_with_arrow: How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@rzklchv)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
