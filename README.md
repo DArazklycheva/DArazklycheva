@@ -23,7 +23,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :lotus_position_woman: in my free time I practice yoga.
 
-- :envelope_with_arrow: How to reach me: [![Telegram](https://img.shields.io/badge/-telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/@rzklchv)
+- :envelope_with_arrow: How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diana-arazklycheva-1842b733a?trk=contact-info)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
