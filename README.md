@@ -3,7 +3,7 @@
 </div>
 </br>
 <div id="badges" align="center">
-  <a href="(https://www.linkedin.com/in/diana-arazklycheva-1842b733a?trk=contact-info">
+  <a href="www.linkedin.com/in/diana-arazklycheva ">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
