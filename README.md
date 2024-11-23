@@ -3,8 +3,8 @@
 </div>
 </br>
 <div id="badges" align="center">
-  <a href="https://vk.com/arazklycheva">
-    <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="VK Badge"/>
+  <a href="(https://www.linkedin.com/in/diana-arazklycheva-1842b733a?trk=contact-info">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
@@ -23,7 +23,7 @@ I am a Junior Frontend Developer <img src="https://media.giphy.com/media/WUlplcM
 
 - :lotus_position_woman: in my free time I practice yoga.
 
-- :envelope_with_arrow: How to reach me: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/diana-arazklycheva-1842b733a?trk=contact-info)
+- :envelope_with_arrow: How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rzklchv) 
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
