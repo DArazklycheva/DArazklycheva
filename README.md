@@ -1,67 +1,27 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
-</div>
-</br>
-<div id="badges" align="center">
-  <a href="(www.linkedin.com/in/diana-arazklycheva)">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+## Привет! Я Диана — fullstack-разработчик 👋
 
+**Angular · React · C# / .NET** · Уфа, готова к переезду
 
-<h3 align="center">
-  Hey! Nice to see you!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h3>
+Разрабатываю реанимационно-анестезиологическую информационную систему (РАИС), которая работает на 45 объектах. Начинала с фронтенда, сейчас веду задачи целиком: структура БД и REST API на C#, интерфейс на Angular и выкладка на тестовый стенд.
 
-### :woman_technologist: About Me :
-I am a Frontend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+### Стек
 
-- :telescope: I'm looking for an internship.
+**Frontend:** Angular (Signals, OnPush, реактивные формы), TypeScript, RxJS, React, HTML5, SCSS
+**Backend:** C#, ASP.NET Core Web API, Entity Framework Core, LINQ, SQL
+**Инструменты:** Git, GitLab, Docker, Vite, Vitest, Figma
 
-- :snowboarder: I'm snowboarding.
+### Проекты
 
-- :lotus_position_woman: in my free time I practice yoga.
+| Проект | Стек | Демо |
+|---|---|---|
+| [Студия красоты «Мята»](https://github.com/DArazklycheva/beauty-studio) — каталог услуг с фильтрами, корзина, онлайн-запись | React, Vite, SCSS, Vitest | [открыть](https://darazklycheva.github.io/beauty-studio/) |
+| [Кофейня «Зерно»](https://github.com/DArazklycheva/coffee-landing) — адаптивный лендинг: слайдер, табы, форма брони | HTML, SCSS (БЭМ), JavaScript | [открыть](https://darazklycheva.github.io/coffee-landing/) |
+| [Home Decor](https://github.com/DArazklycheva/online_shop) — интернет-магазин декора | Angular, TypeScript, Node.js, Express, MongoDB | — |
+| [Quiz](https://github.com/DArazklycheva/quiz-angular) — прохождение тестов с регистрацией и результатами | Angular, TypeScript, Angular Material | — |
+| [Pizza Cheff](https://github.com/DArazklycheva/pizzaCheffAngular) — сайт пиццерии: каталог и оформление заказа | Angular, TypeScript | — |
+| [Мемори](https://github.com/DArazklycheva/memory_game) — игра на запоминание | React | [открыть](https://darazklycheva.github.io/memory_game/) |
 
-- :envelope_with_arrow: How to reach me: [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/arazklycheva) 
----
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg" title="WebStorm" **alt="WebStorm" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" **alt="Figma" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/grunt/grunt-original.svg" title="Grunt" **alt="Grunt" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" title="Gulp" **alt="Gulp" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="Photoshop" **alt="Photoshop" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" **alt="Less" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="jQuery" **alt="jQuery" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" **alt="Bootstrap" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" **alt="Webpack" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" **alt="Vue" width="40" height="40"/>
-</div>
+### Контакты
 
-
-<!--
-**DArazklycheva/DArazklycheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@arazklycheva-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/arazklycheva)
+[![Email](https://img.shields.io/badge/Email-arazklycheva@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arazklycheva@gmail.com)
